@@ -1,0 +1,22 @@
+#navbarSupportedContent{
+    padding-left: 200px;
+}
+.col-12{
+    background-attachment: fixed;
+}
+.bg-image {
+    background-image: url('https://drscdn.500px.org/photo/23667185/q%3D90_m%3D2048/v2?sig=e8ebc7b3f6161db074497047a9d9f2cf1e4193cc10c810e427b9b236a482b49b');
+    background-size: cover; /* Ajuste l'image pour couvrir tout le conteneur */
+    background-position: center; /* Centre l'image dans le conteneur */
+    background-repeat: no-repeat; /* Évite que l'image se répète */
+    height: 400px; /* Ajustez la hauteur selon vos besoins */
+    padding: 5rem; /* Padding de 5 rem pour correspondre à p-5 */
+}
+.bg-image2 {
+    background-image: url('https://drscdn.500px.org/photo/128259879/q%3D90_m%3D2048/v2?sig=40e0afbff882ee32a204eb50d5bbd7162a8ab7fd1654aa4cf636e95832f69970');
+    background-size: cover; /* Ajuste l'image pour couvrir tout le conteneur */
+    background-position: center; /* Centre l'image dans le conteneur */
+    background-repeat: no-repeat; /* Évite que l'image se répète */
+    height: 400px; /* Ajustez la hauteur selon vos besoins */
+    padding: 5rem; /* Padding de 5 rem pour correspondre à p-5 */
+}
